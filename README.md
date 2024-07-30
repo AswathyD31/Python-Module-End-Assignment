@@ -53,7 +53,7 @@ ____
 ___
 •	Data Source: The dataset was provided by ABC Company, capturing various attributes of their employees.
 
-•	Tools Used: The project utilized Python libraries such as pandas for data manipulation, numpy for numerical operations, and matplotlib for data visualization. 
+•	Tools Used: The project utilized Python libraries such as pandas for data manipulation, numpy for numerical operations, and matplotlib and seaborn for data visualization. 
 
 ### Conclusion:
 ___
