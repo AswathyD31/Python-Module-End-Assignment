@@ -9,17 +9,17 @@ This project involves analyzing a dataset from ABC Company consisting of 458 row
 ___
 **1.	Height Column Correction:** The "Height" column initially contained invalid date time values. These were replaced with random numbers between 150 and 180 to ensure data consistency and integrity.
 
-2.	Data Consistency: Ensured all columns had consistent and appropriate data types for subsequent analysis.
+**2.	Data Consistency:** Ensured all columns had consistent and appropriate data types for subsequent analysis.
 
 ### Analysis Tasks
 ___
 #### 1.	Team Distribution:
-*	Goal: Determine the distribution of employees across each team and calculate the percentage split relative to the total number of employees.
-*	Outcome: Identified that the New Orleans Pelicans have the highest number of employees, while most other teams have around 15 employees, indicating a fairly balanced distribution.
+*	**Goal:** Determine the distribution of employees across each team and calculate the percentage split relative to the total number of employees.
+*	**Outcome:** Identified that the New Orleans Pelicans have the highest number of employees, while most other teams have around 15 employees, indicating a fairly balanced distribution.
 
 #### 2.	Position Segregation:
-*	Goal: Segregate employees based on their positions within the company.
-*	Outcome: Provided a breakdown of employees in various positions such as Point Guard (PG), Shooting Guard (SG), Small Forward (SF), Power Forward (PF), and Center (C), highlighting the diversity of roles within the teams.
+*	**Goal:** Segregate employees based on their positions within the company.
+*	**Outcome:** Provided a breakdown of employees in various positions such as Point Guard (PG), Shooting Guard (SG), Small Forward (SF), Power Forward (PF), and Center (C), highlighting the diversity of roles within the teams.
 
 #### 3.	Predominant Age Group:
 *	Goal: Identify the predominant age group among employees.
