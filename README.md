@@ -7,7 +7,7 @@ This project involves analyzing a dataset from ABC Company consisting of 458 row
 
 ### Preprocessing Steps:
 ___
-1.	Height Column Correction: The "Height" column initially contained invalid date time values. These were replaced with random numbers between 150 and 180 to ensure data consistency and integrity.
+**1.	Height Column Correction:** The "Height" column initially contained invalid date time values. These were replaced with random numbers between 150 and 180 to ensure data consistency and integrity.
 
 2.	Data Consistency: Ensured all columns had consistent and appropriate data types for subsequent analysis.
 
