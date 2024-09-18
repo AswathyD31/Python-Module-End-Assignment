@@ -36,17 +36,25 @@ ___
 ### Graphical Representations:
 ___
 **1.	Bar Chart:** Displays the distribution of employees across teams.
+
 **2.	Pie Chart:** Shows the percentage split of employees across different positions.
+
 **3.	Histogram:** Illustrates the age distribution of employees, highlighting the predominant age group.
+
 **4.	Bar Chart:** Represents salary expenditure by team and by position.
+
 **5.	Scatter Plot:** Visualizes the correlation between age and salary to identify any patterns.
 
 ### Insights Gained:
 ____
 **1.	Employee Distribution:** The distribution of employees across teams is relatively balanced, with slight variations indicating even distribution of responsibilities and resources.
+
 **2.	Position Diversity:** The company has a diverse range of positions, with each role contributing uniquely to the team's performance.
+
 **3.	Age Demographics:** Understanding the predominant age group helps tailor engagement and retention strategies and anticipate future training needs.
+
 **4.	Financial Planning:** Analyzing salary expenditure aids in budget planning and highlights valued roles within the organization.
+
 **5.	Compensation Trends:** Exploring the correlation between age and salary informs HR policies regarding salary increments and promotions, ensuring a well-defined career progression path.
 
 ### Additional Information:
